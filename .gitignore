@@ -1,0 +1,55 @@
+# ============ Unity 필수 무시 폴더 ============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+Assets/AssetStoreTools*
+
+# ============ 다운로드 받은 대용량 에셋 ============
+Assets/Downloads/
+
+# ============ IDE/환경 설정 파일 ============
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ============ OS 자동 생성 파일 ============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ============ 빌드 결과물 ============
+*.apk
+*.aab
+*.unitypackage
+
+# ============ Rider / VS Code 관련 ============
+.idea/
+.vscode/
+*.dotCover
+
+# ============ 기타 ============
+*.swp
+*.lock
+*.orig
+*.log

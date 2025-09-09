@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|c:\\users\\leehe\\desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\assets\\_sripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|c:\\users\\leehe\\desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\assets\\_sripts\\aduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\aduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|c:\\users\\leehe\\desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\assets\\_sripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|c:\\users\\leehe\\desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\assets\\_sripts\\scoreupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\scoreupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|c:\\users\\leehe\\desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\assets\\_sripts\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\gamestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|c:\\users\\leehe\\desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\assets\\_sripts\\tilespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\tilespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|c:\\users\\leehe\\desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\assets\\_sripts\\weathermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1EC9B3-34AE-32B0-E85E-18CDBAF87005}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\weathermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherManager.cs",
+              "DocumentMoniker": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\WeatherManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\WeatherManager.cs",
+              "ToolTip": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\WeatherManager.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\WeatherManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:26:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TileSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\TileSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\TileSpawner.cs",
+              "ToolTip": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\TileSpawner.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\TileSpawner.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:26:09.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\ScoreUpdater.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\ScoreUpdater.cs",
+              "ToolTip": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\ScoreUpdater.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\ScoreUpdater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:26:08.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameStart.cs",
+              "DocumentMoniker": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\GameStart.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\GameStart.cs",
+              "ToolTip": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\GameStart.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\GameStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:26:05.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\GameOver.cs",
+              "ToolTip": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\GameOver.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\GameOver.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:26:04.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aduino.cs",
+              "DocumentMoniker": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\Aduino.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\Aduino.cs",
+              "ToolTip": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\Aduino.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\Aduino.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:25:56.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\leehe\\Desktop\\\uC878\uC5C5\uC791\uD488_\uD300\uD504\uB85C\uC81D\uD2B8\\\uC878\uC5C5\uC791\uD488\\Assets\\_Sripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\PlayerController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAgwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:18:33.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

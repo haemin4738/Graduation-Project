@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|c:\\users\\hello\\desktop\\\uC878\uC5C5\uC791\uD488 0516\\assets\\_sripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\assets\\_sripts\\aduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\aduino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\assets\\_sripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\assets\\_sripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\assets\\templerunprefabs\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|solutionrelative:assets\\templerunprefabs\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\assets\\_sripts\\tilespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\tilespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\assets\\_sripts\\weathermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A83B5A8-F60C-D6DD-07EE-7CC5A8B15BA7}|Assembly-CSharp.csproj|solutionrelative:assets\\_sripts\\weathermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\TempleRunPrefabs\\Tile.cs",
+              "RelativeDocumentMoniker": "Assets\\TempleRunPrefabs\\Tile.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\TempleRunPrefabs\\Tile.cs",
+              "RelativeToolTip": "Assets\\TempleRunPrefabs\\Tile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:21:22.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\GameOver.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\GameOver.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\GameOver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:59:00.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:58:23.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\PlayerController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAYwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:06:13.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aduino.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\Aduino.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\Aduino.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\Aduino.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\Aduino.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAYwIgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:19:14.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherManager.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\WeatherManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\WeatherManager.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\WeatherManager.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\WeatherManager.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:27:42.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TileSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\TileSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\_Sripts\\TileSpawner.cs",
+              "ToolTip": "C:\\Users\\HELLO\\Desktop\\\uC878\uC5C5\uC791\uD488 0516\\Assets\\_Sripts\\TileSpawner.cs",
+              "RelativeToolTip": "Assets\\_Sripts\\TileSpawner.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAswJEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:26:23.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
